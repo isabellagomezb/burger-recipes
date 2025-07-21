@@ -55,7 +55,7 @@ section{
 /* Home Section */
 #home{
     background: linear-gradient(to top, rgba(0,0,0,0.555) 50%,
-    rgba(0, 0, 0, 0.555) 50%), url(/assets/img/burgerrr.png);
+    rgba(0, 0, 0, 0.555) 50%), url(img/burgerrr.png);
     background-position: center;
     background-size: cover;
     min-height: 100vh;
